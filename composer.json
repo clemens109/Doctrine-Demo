@@ -1,0 +1,7 @@
+{
+    "name": "clemens/doctrine-dbal",
+    "type": "project",
+    "require": {
+        "doctrine/dbal": "^2.9"
+    }
+}
